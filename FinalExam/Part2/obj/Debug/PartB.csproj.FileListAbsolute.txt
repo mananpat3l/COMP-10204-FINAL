@@ -1,0 +1,10 @@
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\PartB.csprojAssemblyReference.cache
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\Part2.Form1.resources
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\Part2.Properties.Resources.resources
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\PartB.csproj.GenerateResource.cache
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\PartB.csproj.CoreCompileInputs.cache
+C:\Users\manan\source\repos\Final\Part2\bin\Debug\Part2.exe.config
+C:\Users\manan\source\repos\Final\Part2\bin\Debug\Part2.exe
+C:\Users\manan\source\repos\Final\Part2\bin\Debug\Part2.pdb
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\Part2.exe
+C:\Users\manan\source\repos\Final\Part2\obj\Debug\Part2.pdb
